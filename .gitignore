@@ -1,0 +1,17 @@
+# build output
+bin/
+obj/
+*.o
+*.obj
+
+# third-party sources (fetch separately, see README)
+third_party/
+
+# logs / temp
+*.log
+kr4mod_cmd.txt
+
+# os junk
+Thumbs.db
+desktop.ini
+.DS_Store
